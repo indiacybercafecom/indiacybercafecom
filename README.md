@@ -113,8 +113,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiacybercafe&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiacybercafecom&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indiacybercafe&show_icons=true&locale=en&theme=tokyonight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indiacybercafecom&show_icons=true&locale=en&theme=tokyonight" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indiacybercafe&&theme=tokyonight" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indiacybercafecom&&theme=tokyonight" /></p>
